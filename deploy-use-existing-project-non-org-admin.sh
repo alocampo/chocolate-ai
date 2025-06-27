@@ -30,9 +30,9 @@
 # 2 - Grant your user Owner IAM access to the new project
 
 # 3 - Run the below script and replace the following variables
-gcp_account_name="your-name@your-domain.com"
-project_id="my-project"
-project_number="000000000000"
+gcp_account_name="alberto.ocampo@qodea.com"
+project_id="cts-sbx-685-condescending-meni"
+project_number="756421727402"
 
 
 ####################################################################################
